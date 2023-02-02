@@ -1,6 +1,6 @@
 # Python
 
-These are my Python web applications made with sqlite3, tkinter, and/or django
+These are my Python web applications (mostly made with sqlite3, tkinter, and/or django)
 
 ## This is where I'll keep all my Python projects
 ## Check them out:
