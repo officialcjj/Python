@@ -6,11 +6,11 @@
     <hr>
     <div class="text-center">
         <h5>Manage your existing account!</h5>
-        <form methods="POST">
+        <form method="POST">
             <label id="index-label">Choose Account:</label>
             {% csrf_token %}
             {{ form.account }}
-            <button type="button" onclick="">Go to Account</button>
+            <button type="submit">Go to Account</button>
         </form>
     </div>
     <hr>
