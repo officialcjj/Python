@@ -13,9 +13,9 @@ These are my Python web applications (mostly made with sqlite3, tkinter, and/or 
 Can create and store university and student objects.
 
 ## Hangman
-A simple guessing game.
+A strategic guessing game.
 
 ## Checkbook
-A simple checkbook application that can create user objects and 
-track their deposits, withdrawals, and balance 
-as well as logging the dates of transactions for future references.
+A checkbook application that can create user objects and 
+track their deposits, withdrawals, and balance as well as 
+logging the dates of transactions for future references.
